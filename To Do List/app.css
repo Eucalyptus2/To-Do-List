@@ -1,0 +1,9 @@
+#container {
+  width: 50%;
+  padding: 3em;
+  margin: auto;
+  border: 2px solid black;
+}
+#list {
+  padding: 1em;
+}
